@@ -1,0 +1,3 @@
+login1, password1234, Drew M, 522660.0
+login2, admin1, James K, 123854.0
+login3, anotherAccount, Harry L, 524056.0
